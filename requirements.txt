@@ -1,0 +1,11 @@
+tensorflow
+keras
+keras-tuner
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+Pillow
+jupyter
+ipykernel
