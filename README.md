@@ -29,6 +29,7 @@ https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY
 
 The notebook expects the data to be arranged approximately as:
 
+```text
 CBISDDSM-AWSAF/
 ├── csv/
 │   ├── dicom_info.csv
@@ -38,6 +39,7 @@ CBISDDSM-AWSAF/
 │   └── calc_case_description_test_set.csv
 └── jpeg/
     └── ...
+```
 
 Update `localPath` in the notebook if the dataset is stored elsewhere.
 
