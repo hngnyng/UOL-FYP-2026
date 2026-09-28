@@ -5,7 +5,7 @@ abnormalities as benign or malignant using the CBIS-DDSM dataset.
 
 The implemented models include:
 
-- A convolutional neural network trained from scratch
+- A custom convolutional neural network trained from scratch
 - A frozen ResNet50 feature extractor
 - A frozen VGG16 feature extractor
 - Hyperparameter-tuned classification models
